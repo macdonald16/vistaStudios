@@ -21,7 +21,7 @@ const Home = () => {
         <div>
           <p> We capture the </p>
           <p> Best moments </p>
-          <p> For you </p>
+          <p> For you. </p>
          
         </div>
       </div>
